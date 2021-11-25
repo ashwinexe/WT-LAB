@@ -5,10 +5,16 @@ body
 }
 p
 {
-    color: blue;
+    color: yellow;
     font-size: 10px;
 }
 a:hover{
     font-size: large;
     cursor: pointer;
 }
+
+a:visited {
+    color: blueviolet;
+}
+
+
