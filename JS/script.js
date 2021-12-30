@@ -37,3 +37,7 @@ function loop()
 }
 
 loop();
+
+function success() {
+    alert('Form submitted successfully!')
+}
