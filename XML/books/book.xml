@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE bookdetails SYSTEM "book.dtd">
+<?xml:stylesheet type="text/xsl" href="book.xsl"?>
+<bookdetails>
+<books>
+<title>C</title>
+<author>Ashwin</author>
+<edition>2nd</edition>
+<price>500</price>
+<title>C++</title>
+<author>Ashwinss</author>
+<edition>3rd</edition>
+<price>600</price>
+</books>
+</bookdetails>
