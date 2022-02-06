@@ -3,4 +3,3 @@
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT author (#PCDATA)>
 <!ELEMENT edition (#PCDATA)>
-<!ELEMENT price (#PCDATA)>
